@@ -9,3 +9,7 @@ Answer: I'm sure data science can be applies to Machine Learning to track the fi
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Rebasing is more retroactive, attempting to consolidate branches into something linear. Doesn't care about preserving change history.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I'm excited to learn about git and quantum computing in my CS classes, things I haven't approached much previously.
