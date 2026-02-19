@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: I'm sure data science can be applies to Machine Learning to track the fitness of various iterations of a model.
